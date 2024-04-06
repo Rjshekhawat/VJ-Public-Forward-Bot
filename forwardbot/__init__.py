@@ -5,6 +5,7 @@ import os
 from telethon import TelegramClient
 from distutils.util import strtobool as sb
 from telethon import events
+ENV = True
 from telethon.sessions import StringSession
 ENV = True
 
